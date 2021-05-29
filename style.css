@@ -1,0 +1,22 @@
+h1{
+    color: red;
+}
+table, th, td {
+    padding: 0px;
+    border-spacing: 0px;
+    border-collapse: collapse;
+    background-color: #ddd;
+    border:1px solid #777;
+  }
+  th, td {
+   width: 30px;
+   height: 30px;
+  }
+  i{
+      font-size: large;
+      
+  }
+  #board{
+    width: 300px;
+  }
+  
